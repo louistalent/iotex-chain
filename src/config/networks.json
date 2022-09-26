@@ -1,0 +1,35 @@
+{
+    "BSC": {
+        "bridge": "0xF90F87aa2657bee06362B9460534bcdBd89F105F",
+        "chainId": 97,
+        "coin": "BNB",
+        "decimals": 18,
+        "confirmations": 12,
+        "blocktime": 3000,
+        "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "explorer": "https://testnet.bscscan.com/",
+        "erc20": "BEP20"
+    },
+    "ETH": {
+        "bridge": "0xF90F87aa2657bee06362B9460534bcdBd89F105F",
+        "chainId": 4,
+        "coin": "ETH",
+        "decimals": 18,
+        "confirmations": 14,
+        "blocktime": 3000,
+        "rpc": "https://rinkeby.infura.io/v3/580d6de4d2694cbdbee111d2f553dbcc",
+        "explorer": "https://rinkeby.etherscan.io/",
+        "erc20": "ERC20"
+    },
+    "IOTEX": {
+        "bridge": "0xF90F87aa2657bee06362B9460534bcdBd89F105F",
+        "chainId": 4,
+        "coin": "IOTX",
+        "decimals": 18,
+        "confirmations": 14,
+        "blocktime": 5000,
+        "rpc": "https://babel-api.testnet.iotex.io",
+        "explorer": "https://testnet.iotexscan.io/",
+        "erc20": "ERC20"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "BSC": {
+        "img": "binance.svg"
+    },
+    "ETH": {
+        "img": "ETH.svg"
+    },
+    "IOTEX": {
+        "img": "iotex.svg"
+    }
+}
