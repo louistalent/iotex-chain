@@ -274,6 +274,7 @@ const Home = () => {
       const rpc = net.rpc;
       G.update({ [_chain]: chain });
       G.update({ chainIdMatch: chainId, rpc });
+      console.log(chainId);
       G.changeNetwork(chainId);
     } else {
       setFake_dis(false);

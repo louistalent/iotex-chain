@@ -23,7 +23,7 @@
     },
     "IOTEX": {
         "bridge": "0xF90F87aa2657bee06362B9460534bcdBd89F105F",
-        "chainId": 4,
+        "chainId": 4690,
         "coin": "IOTX",
         "decimals": 18,
         "confirmations": 14,
